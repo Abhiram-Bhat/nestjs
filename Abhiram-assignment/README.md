@@ -1,6 +1,4 @@
----
 
-````markdown
 # ASN Internship Backend Assignment
 
 This project was developed as part of the required assessment for the **SDE Intern (Backend)** position at CodeInbound LLP.  
