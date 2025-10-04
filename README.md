@@ -120,7 +120,5 @@ Unit tests are included for basic CRUD operations and authentication.
 
 ---
 
-Would you like me to slightly **personalize the “Acknowledgment”** section to include a short professional line like  
-> “I enjoyed working on this assignment and look forward to contributing as an SDE Intern”?  
-It’ll make your submission sound more genuine and complete.
+
 ```
