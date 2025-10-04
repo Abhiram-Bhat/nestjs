@@ -114,4 +114,3 @@ Unit tests are included for basic CRUD operations and authentication.
 * All endpoints are validated and protected using JWT.
 * Code follows a clean, modular Nest.js structure with separate modules for Users and Auth.
 
-
